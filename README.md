@@ -1,3 +1,2 @@
--  Hi, I’m @tomorard
--  I’m currently learning Python
+-  Hi, I’m @DevByRyuu
 -  I'm currently studying CyberSecurity in college
